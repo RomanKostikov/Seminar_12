@@ -1,2 +1,2 @@
 """Doc."""
-TOKEN = "Your TOKEN"
+TOKEN = "YOUR TOKEN"
